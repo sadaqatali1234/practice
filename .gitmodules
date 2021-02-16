@@ -1,0 +1,3 @@
+[submodule "numpy-assigments"]
+	path = numpy-assigments
+	url = ../numpy-assigments.git
